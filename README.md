@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sjkatwa2000@gmail.com | twitter.com/JkSharat
 
-![](https://komarev.com/ghpvc/?username=sharatkatwa)
+![](https://komarev.com/ghpvc/?username=sharatkatwa&color=blueviolet)
 
 
 
