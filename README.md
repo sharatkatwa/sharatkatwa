@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sharat Katwa
 
-## 👋 About me
+## About me
 - 👀 I’m Tech and Open Source enthusiast
 - 🌱 I’m currently learning about backend development(NodeJS, Express, MongoDB, APIs)
 - 💞️ I’m looking to collaborate on ...
