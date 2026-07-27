@@ -2,9 +2,7 @@
 
 
 ## About me:
-- 🤩 I’m Tech and Open Source enthusiast
-- 👨‍💻 I know Web Development
-- 💞️ I’m looking to collaborate on awesome opensource projects
+Full-Stack Developer | MERN Stack | Building AI-powered applications | Passionate about scalable systems, clean code, and solving real-world problems.  
 - 📫 How to reach me: sjkatwa2000@gmail.com | [JkSharat](https://twitter.com/home)
 
 
