@@ -4,7 +4,7 @@
 ## About me:
 Full-Stack Developer | MERN Stack | Building AI-powered applications | Passionate about scalable systems, clean code, and solving real-world problems.  
 - 📫 How to reach me: sjkatwa2000@gmail.com | [JkSharat](https://twitter.com/home)
-
+-  visit: [sharatkatwa.com](https://sharatkatwa.com)
 
 ## Languages and Tools:
 <p align="left">
